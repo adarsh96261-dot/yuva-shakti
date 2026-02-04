@@ -10,7 +10,7 @@ DATA_FILE = "users_db.json"
 st.set_page_config(
     page_title="Yuva Shakti",
     page_icon="🧡",
-    layout="mobile"
+    layout="centered"
 )
 
 # ---------------- UTIL FUNCTIONS ----------------
